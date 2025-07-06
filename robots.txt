@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /wp-admin/
+Disallow: /search/
+Disallow: /?ref=
+Disallow: /user/profile/
+
+# Block common exploit paths
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.sql$
+
+# Sitemap location
+Sitemap: https://www.teenpatticlan.com/sitemap.xml
+
+# Crawl delay for heavy pages (adjust as needed)
+Crawl-delay: 3
+
+# Special rules for search engines
+User-agent: Googlebot
+Allow: /images/
+Allow: /styles/
+Disallow: /downloads/
+
+User-agent: Bingbot
+Crawl-delay: 5

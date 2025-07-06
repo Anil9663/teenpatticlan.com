@@ -1,0 +1,299 @@
+a {
+    text-decoration: none;
+  }
+  html {
+    font-size: 50px;
+  }
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  @media screen and (min-width: 320px) {
+    html {
+      font-size: 21.33333333px;
+    }
+  }
+  @media screen and (min-width: 360px) {
+    html {
+      font-size: 24px;
+    }
+  }
+  @media screen and (min-width: 375px) {
+    html {
+      font-size: 25px;
+    }
+  }
+  @media screen and (min-width: 384px) {
+    html {
+      font-size: 25.6px;
+    }
+  }
+  @media screen and (min-width: 400px) {
+    html {
+      font-size: 26.66666667px;
+    }
+  }
+  @media screen and (min-width: 414px) {
+    html {
+      font-size: 27.6px;
+    }
+  }
+  @media screen and (min-width: 424px) {
+    html {
+      font-size: 28.26666667px;
+    }
+  }
+  @media screen and (min-width: 480px) {
+    html {
+      font-size: 32px;
+    }
+  }
+  @media screen and (min-width: 540px) {
+    html {
+      font-size: 36px;
+    }
+  }
+  @media screen and (min-width: 720px) {
+    html {
+      font-size: 48px;
+    }
+  }
+  @media screen and (min-width: 750px) {
+    html {
+      font-size: 50px;
+    }
+  }
+  
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+    min-height: 30.28rem;
+    /* max-height: 30.28rem; */
+  }
+  
+  
+  body {
+    min-width: 320px;
+    width: 15rem;
+    margin: 0 auto;
+    line-height: 1.5;
+    background: #fff;
+  }
+
+  .warp10 {
+    position: relative;
+    width: 15rem;
+    height: 31rem;
+    margin-top: 3.3rem;
+    margin: 0 auto;
+    background: url("../images/teen-patti-clan.webp") no-repeat; /* Changed from teen-patti-gold.png */
+    background-size: 100% auto;
+    background-color: #381a0b;
+  }
+  
+  .main {
+    padding: 0.5rem;
+  }
+  
+  .logo {
+    width: 4rem;
+    height: 4rem;
+  }
+  
+  .footer {
+    position: fixed;
+    color:white;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #420229;
+    z-index: 2;
+  }
+  
+  .small-logo {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  
+  .dowmload-button {
+    position: absolute;
+    top: 18.9rem;
+    left: 50%;
+    margin-left: -3.96rem;
+    width: 7.92rem;
+    height: 3rem;
+    animation: myBreath 1s linear infinite;
+    margin-top: 40px;
+  }
+
+
+  
+
+
+  
+  @keyframes myBreath {
+    0% {
+      transform: scale(0.88);
+    }
+    50% {
+      transform: scale(100%);
+    }
+    100% {
+      transform: scale(0.88);
+    }
+  }
+  
+  .tip {
+    display: flex;
+  }
+  
+  .tip-content {
+    margin-left: 0.3rem;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .bit-game {
+    font-size: 0.8rem;
+    font-family: Arial;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    font-size: 0.54rem;
+    line-height: 0.6rem;
+    font-family: roboto;
+    color:yellow;
+  }
+  
+  .dowmload {
+    text-align: center;
+    margin-right: 5px;
+    font-size: 0.6rem;
+    color: #fad90600;
+    background: url("../images/teen-patti-clan-apk.webp") no-repeat; /* Changed from top-down.png */
+    background-size: 100% 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  
+  .logo,
+  .small-logo {
+    border-radius: 18px;
+  }
+
+
+
+
+
+
+/* CSS SECTION START / CSS भाग शुरू 
+
+        /* Disclaimer Container / डिस्क्लेमर का मुख्य डिब्बा */
+        .disclaimer-container {
+            
+            overflow: hidden;
+            background-color: #d6189d18;
+            padding: 0;
+            position: relative;
+            display: flex;
+            align-items: center;
+            height: 50px;
+            font-family: Arial, sans-serif;
+            border: 1px solid #ddd;
+        }
+        
+    
+
+        .fixed-part {
+            flex-shrink: 0;
+            padding: 0 15px;
+            font-weight: bold;
+            background-color: #d61e18ee;
+            z-index: 1;
+            color: rgb(255, 255, 255);
+            height: 100%;
+            font-size: 0.45rem;
+            display: flex;
+            align-items: center;
+        }
+
+
+        .scrolling-text {
+            white-space: nowrap;
+            animation: scroll 20s linear infinite;
+            line-height: 1.3;
+            font-size: 0.4rem;
+            color: rgb(183, 0, 255);
+        }
+        
+        .scrolling-text:hover {
+            animation-play-state: paused;
+        }
+        
+        @keyframes scroll {
+            0% {
+                left: 100%;
+                transform: translateX(0);
+            }
+            100% {
+                left: 0;
+                transform: translateX(-100%);
+            }
+        }
+
+
+
+        /* ====== तीनों सेक्शन के लिए spacing (id द्वारा targeting) ====== */
+    #section1, #section2, #section3 {
+      background-color: #d6189d18;
+    }
+
+    /* ====== सभी heading (class="heading") के लिए ====== */
+    .heading {
+      
+
+      border-style: dashed solid;
+            height: auto;
+            width: 100%;
+            margin: auto;
+            border-color: #f5b6f0a4;
+            padding: 5px;
+            display: inline-block;
+            background-color: rgb(66, 2, 41);
+            color: white;
+            font-family: "Bodoni";
+            border-width: 4px;
+            box-sizing: border-box;
+            font-size: 22px;
+    }
+
+    /* ====== सभी पैराग्राफ के लिए (class="paragraph") ====== */
+    .paragraph {
+      line-height: 1.6;
+      margin-top: 5px;
+      margin-left: 0.5rem;
+      font-size: 18px;
+    }
+
+    /* ====== पहली heading के नीचे list के लिए (class="services-list") ====== */
+    .services-list {
+      padding-left: 1.5rem;
+      font-size: 18px;
+      margin: 0px;
+    }
+    
+
+    /* ====== लिस्ट के हर item के लिए spacing ====== */
+    .services-list li {      
+      padding-bottom: 8px;
+    }
