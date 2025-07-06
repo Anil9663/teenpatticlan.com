@@ -1,58 +1,204 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-	<loc>https://teenpatticlan.com/</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-	<image:image>
-			<image:loc>https://teenpatticlan.com/%24%7Bgame.logoImage%7D</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://teenpatticlan.com/images/teen-patti-clan-apk-logo.webp</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://teenpatticlan.com/images/teen-patti-clan-download-btn.webp</image:loc>
-	</image:image>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/privacy-policy.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/terms-%26-condition.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/about-us.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/contact-us.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/faq.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/data-deletion-policy.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/disclaimer.html</loc>
-	<lastmod>2025-07-06T10:21:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://teenpatticlan.com/terms-%26-condition.html</loc>
-	<lastmod>2025-07-06T10:21:18+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- मुख्य पेज -->
+    <url>
+        <loc>https://teenpatticlan.com/</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- सभी इमेजेस -->
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/abc-rummy-apk-logo.webp</image:loc>
+            <image:title>ABC Rummy APK Logo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/apple-touch-icon.png</image:loc>
+            <image:title>Apple Touch Icon</image:title>
+        </image:image>
+
+		<image:image>
+            <image:loc>https://teenpatticlan.com/images/bappa-rummy-logo.webp</image:loc>
+            <image:title>Bappa Rummy Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/favicon-32x32.png</image:loc>
+            <image:title>Favicon 32x32</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/favicon-96x96.png</image:loc>
+            <image:title>Favicon 96x96</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/favicon.ico</image:loc>
+            <image:title>Website Favicon</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/favicon.svg</image:loc>
+            <image:title>SVG Favicon</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/gogo-rummy-apk-logo.webp</image:loc>
+            <image:title>GoGo Rummy APK Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/jaiho-arcade-apk-logo.webp</image:loc>
+            <image:title>JaiHo Arcade Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/neta-vip-apk-logo.webp</image:loc>
+            <image:title>Neta VIP APK Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/rummy-guru-apk-logo.webp</image:loc>
+            <image:title>Rummy Guru Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/rummy-se-apk-logo.webp</image:loc>
+            <image:title>Rummy SE Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/spin-crush-apk-logo.webp</image:loc>
+            <image:title>Spin Crush Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-clan-apk-logo.png</image:loc>
+            <image:title>Teen Patti Clan PNG Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-clan-apk-logo.webp</image:loc>
+            <image:title>Teen Patti Clan WEBP Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-clan-apk.webp</image:loc>
+            <image:title>Teen Patti Clan APK</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-clan-download-btn.webp</image:loc>
+            <image:title>Download Button</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-clan.webp</image:loc>
+            <image:title>Teen Patti Clan Banner</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-epic-apk-logo.webp</image:loc>
+            <image:title>Teen Patti Epic Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-gold-apk-logo.webp</image:loc>
+            <image:title>Teen Patti Gold Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-jodi-apk-logo.webp</image:loc>
+            <image:title>Teen Patti Jodi Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-joy-apk-logo.ico</image:loc>
+            <image:title>Teen Patti Joy Icon</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/teen-patti-master-apk-logo.webp</image:loc>
+            <image:title>Teen Patti Master Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/web-app-manifest-192x192.png</image:loc>
+            <image:title>PWA Icon 192x192</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/web-app-manifest-512x512.png</image:loc>
+            <image:title>PWA Icon 512x512</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/yono-101z-apk-logo.webp</image:loc>
+            <image:title>Yono 101Z Logo</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://teenpatticlan.com/images/yono-777-apk-logo.webp</image:loc>
+            <image:title>Yono 777 Logo</image:title>
+        </image:image>
+        <!-- ... अन्य सभी इमेजेस यहां जोड़ें ... -->
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://teenpatticlan.com/privacy-policy.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Terms & Conditions -->
+    <url>
+        <loc>https://teenpatticlan.com/terms-and-conditions.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- About Us -->
+    <url>
+        <loc>https://teenpatticlan.com/about-us.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact Us -->
+    <url>
+        <loc>https://teenpatticlan.com/contact-us.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- FAQ -->
+    <url>
+        <loc>https://teenpatticlan.com/faq.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Data Deletion Policy -->
+    <url>
+        <loc>https://teenpatticlan.com/data-deletion-policy.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Disclaimer -->
+    <url>
+        <loc>https://teenpatticlan.com/disclaimer.html</loc>
+        <lastmod>2025-07-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
